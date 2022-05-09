@@ -16,7 +16,7 @@ Using input boxes, the user can enter a single or any combination of the followi
 - shape of the object
 
 
-![filters](Vacation_Itinerary/WeatherPy_travel_map.png)
+![filters](static/images/filters.png)
 
 
 The D3 JavaScript library allows the script to listen for changes to the input boxes as the user updates the search criteria. When a change is detected, a function is called to read the new input value(s), which are then used to filter the original dataset. Finally, only data matching the search criteria are displayed in the table using HTML tags and Bootstrap styling
